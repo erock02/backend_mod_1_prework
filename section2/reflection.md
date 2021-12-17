@@ -12,9 +12,9 @@ try to see if I can answer the question myself to gauge my understanding.
 1. What is a conditional statement? Give three examples.
 A conditional statement is one that evaluates to a boolean value (true/false).
 '''Ruby
-ex. 12 < 2
-ex. "blue" == "blue"
-ex. x > y
+12 < 2
+"blue" == "blue"
+x > y
 '''
 1. Why might you want to use an if-statement? /n
 You want different code to run based off variable values
@@ -22,7 +22,7 @@ You want different code to run based off variable values
 1. What is the Ruby syntax for an if statement?  /n
 '''Ruby
 if (condition)
-  # insert code here
+  insert code here
 end
 '''
 1. How do you add multiple conditions to an if statement?
@@ -32,12 +32,12 @@ Use logical/Boolean operators (&&, ||, !)
 if (condition)
   insert code here
 elsif (condition)
-  # insert code here
+  insert code here
 ..
 elsif (condition)
   insert code here
 else
-  # insert code here
+  insert code here
 end
 '''
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
