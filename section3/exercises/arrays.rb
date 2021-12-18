@@ -15,7 +15,7 @@
 # EXAMPLE: write code below that will print an array of animals.
 # Store the array in a variable.
 animals = ["Zebra", "Giraffe", "Elephant"];
-# print animals
+print animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
@@ -23,7 +23,7 @@ print animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
-# print animals.length
+print animals.length
 
 # YOU DO: Write code that will reassign the last item in the animals
 # array to "Gorilla"
