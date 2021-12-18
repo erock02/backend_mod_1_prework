@@ -31,6 +31,7 @@ animals[-1] = "Gorilla"
 
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 animals.push("dog")
+
 # YOU DO: Write code that will print the String "Elephant" in the animals array
 #I re-assigned the last item in animals which was "Elephant" so I am adding it in first
 animals.push("Elephant")
